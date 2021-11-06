@@ -1,0 +1,44 @@
+#container{
+	background-image:url("../imagens/fundo2.jpg");
+	position: relative;
+	color:transparent !important;
+	
+}
+
+
+.row{
+	background-color:rgb(255, 94, 0);
+	margin-top: 30px;
+	left: 10px;
+	border: none;
+	background-position: justify;
+	
+	
+	
+}
+.cola{
+	background-color:rgb(255, 94, 0);
+	left: 20px;
+	background-position: relative;
+	height: 40px;
+	width: 5000px;
+
+	
+}
+.container{
+	color:transparent !important;
+	
+	
+}
+
+.img-fluid{
+	margin-bottom: 550px;
+}
+
+
+
+
+
+
+
+

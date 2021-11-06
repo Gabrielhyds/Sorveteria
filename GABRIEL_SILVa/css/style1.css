@@ -1,0 +1,66 @@
+.colas{
+	padding: none;
+	height: 100px;
+	width: 5000px;
+    
+	
+	
+}
+.row{
+	
+	
+	left: 100px;
+	border: none;
+	background-position: justify;
+	
+}
+.cola{
+	background-color:rgb(255, 94, 0);
+	left: 20px;
+	background-position: relative;
+	height: 40px;
+	width: 5000px;
+
+	
+}
+.container{
+	background-color:rgb(255, 94, 0);
+	margin-top: 30px;
+	left: 10px;
+}
+
+
+#fundo{
+    background-image: url("../imagens/fundo2.jpg");
+    position: relative;
+}
+
+
+.display-2{
+	color:rgb(255, 94, 0);
+}
+.display-3{
+	color:black;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+
+
+.col-sm-6{
+    margin-top: 520px;
+    left: 300px;
+    bottom: 80px;
+    text-align: justify;
+}
+
+.row1{
+	
+	
+	margin-left: 105px;
+    margin-right: 104px;
+	
+	background-position: justify;
+	
+}
+	
