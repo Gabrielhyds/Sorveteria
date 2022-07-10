@@ -1,7 +1,7 @@
 # Projeto Sorveteria
 - Desenvolvido na aula de PW I para treino de conhecimentos HTML,CSS
 
-![Captura de Tela (136)](https://user-images.githubusercontent.com/85001629/178113702-7cf35bee-0991-4e41-bf15-f47ddc460866.png)
+![Captura de Tela (145)](https://user-images.githubusercontent.com/85001629/178153308-e1a314bf-6e4f-4221-a4d4-a02341a31a7c.png)
 
 # 💼 Tecnologias utilizadas
 
